@@ -1,0 +1,223 @@
+[
+    {
+        "dept": "Law",
+        "courses": [
+            "-----Please-Select-----", "Introduction to Law",  "Constitutional Law",  "Criminal Law",  "Contract Law",  "Torts Law",  "Property Law",  "International Law",  "Civil Procedure",  "Evidence Law",  "Business Law",  "Environmental Law",  "Human Rights Law",  "Intellectual Property Law",  "Family Law",  "Administrative Law",  "Tax Law",  "Labour Law"
+        ]
+    },
+
+    {
+        "dept": "Medicine & Medical Sciences",
+        "courses":[
+            "-----Please-Select-----",
+            "Anatomy and Physiology",
+            "Biochemistry",
+            "Microbiology",
+            "Pharmacology",
+            "Pathology",
+            "Immunology",
+            "Clinical Medicine",
+            "Surgery",
+            "Obstetrics and Gynecology",
+            "Pediatrics",
+            "Psychiatry",
+            "Radiology",
+            "Oncology",
+            "Dermatology",
+            "Neurology",
+            "Ophthalmology",
+            "Cardiology",
+            "Endocrinology"
+        ]
+    },
+    {
+        "dept": "Engineering & Technology",
+        "courses": [
+            "-----Please-Select-----",
+            "Mechanical Engineering",
+            "Electrical Engineering",
+            "Computer Engineering",
+            "Civil Engineering",
+            "Chemical Engineering",
+            "Materials Engineering",
+            "Aerospace Engineering",
+            "Environmental Engineering",
+            "Biomedical Engineering",
+            "Nuclear Engineering",
+            "Software Engineering",
+            "Industrial Engineering",
+            "Structural Engineering",
+            "Geotechnical Engineering",
+            "Marine Engineering",
+            "Petroleum Engineering",
+            "Automation and Control Systems Engineering"
+        ]
+    },
+    {
+        "dept": "English & Literary Studies",
+        "courses": [
+            "-----Please-Select-----",
+            "Literary Theory and Criticism",
+            "World Literature",
+            "American Literature",
+            "British Literature",
+            "Shakespeare Studies",
+            "Creative Writing",
+            "Poetry",
+            "Fiction",
+            "Drama",
+            "Non-Fiction Prose",
+            "Comparative Literature",
+            "Women's and Gender Studies",
+            "Postcolonial Literature",
+            "Children's Literature",
+            "Science Fiction and Fantasy",
+            "Myths and Folklore",
+            "Literary Journalism"
+        ]
+    },
+    {
+        "dept": "Political Science",
+        "courses":[
+            "-----Please-Select-----",
+            "Introduction to Political Science",
+            "Comparative Politics",
+            "International Relations",
+            "Political Theory",
+            "Public Administration",
+            "Public Policy",
+            "American Government",
+            "Political Economy",
+            "Political Psychology",
+            "Democratic Theory",
+            "Conflict and Peace Studies",
+            "Environmental Politics",
+            "Gender and Politics",
+            "Race and Ethnic Politics",
+            "Public Law",
+            "Human Rights",
+            "Globalization and World Politics"
+        ]
+    },
+    {
+        "dept": "Theatre & Media Arts",
+        "courses":[
+            "-----Please-Select-----",
+            "Introduction to Theatre",
+            "Acting",
+            "Directing",
+            "Playwriting",
+            "Scenography",
+            "Costume Design",
+            "Lighting Design",
+            "Sound Design",
+            "Theatre History",
+            "Performance Studies",
+            "Dance",
+            "Musical Theatre",
+            "Film Studies",
+            "Television Studies",
+            "Media Theory",
+            "Digital Media",
+            "Photography",
+            "Journalism"
+        ]
+    },
+    {
+        "dept": "Mass communication",
+        "courses":[
+            "-----Please-Select-----",
+            "Introduction to Mass Communication",
+            "Journalism",
+            "Advertising",
+            "Public Relations",
+            "Broadcast Journalism",
+            "Print Journalism",
+            "Photojournalism",
+            "Media Law and Ethics",
+            "Media Management",
+            "Media Studies",
+            "Film Studies",
+            "Television Studies",
+            "Radio Broadcasting",
+            "New Media",
+            "Digital Media",
+            "Entertainment Industry Studies",
+            "Journalism History",
+            "Cultural Studies"
+        ]
+    },
+    {
+        "dept": "Pharmacy",
+        "courses":[
+            "-----Please-Select-----",
+            "Pharmaceutical Chemistry",
+            "Pharmacology",
+            "Pharmaceutical Microbiology",
+            "Pharmaceutical Biotechnology",
+            "Pharmaceutics",
+            "Pharmacognosy",
+            "Clinical Pharmacy",
+            "Drug Design and Development",
+            "Pharmaceutical Analysis",
+            "Pharmaceutical Management",
+            "Pharmaceutical Marketing",
+            "Pharmaceutical Sales",
+            "Pharmaceutical Regulatory Affairs",
+            "Herbal Medicine",
+            "Pharmaceutical Quality Control",
+            "Pharmaceutical Packaging",
+            "Pharmaceutical Technology"
+        ]
+    },
+    {
+        "dept": "Agricultural Sciences",
+        "courses":[
+            "-----Please-Select-----",
+            "Agricultural Biology",
+            "Agricultural Chemistry",
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Agricultural Entomology",
+            "Agricultural Extension",
+            "Agricultural Genetics",
+            "Agricultural Hydrology",
+            "Agricultural Microbiology",
+            "Agricultural Physics",
+            "Agricultural Soil Science",
+            "Agricultural Statistics",
+            "Animal Science",
+            "Crop Science",
+            "Forestry",
+            "Horticulture",
+            "Irrigation and Drainage Engineering",
+            "Livestock Production"
+        ]
+    },
+    {
+        "dept": "Social Sciences",
+        "courses":[
+            "-----Please-Select-----",
+            "Introduction to the Social Sciences",
+            "Sociology",
+            "Anthropology",
+            "Psychology",
+            "Political Science",
+            "Economics",
+            "Geography",
+            "History",
+            "Law and Society",
+            "Cultural Studies",
+            "Gender Studies",
+            "Race and Ethnic Studies",
+            "Social Work",
+            "Social Policy",
+            "Social Research Methods",
+            "Demography",
+            "Human Geography",
+            "Environmental Studies"
+        ]
+    }
+
+
+]
